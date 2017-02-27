@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppDivises</string>
+    <string name="euros">euros</string>
+    <string name="dolares">dolares</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name= "porcentajeComision">porcentaje de comision</string>
+    <string name="tipoCambio">porcentaje del tipo de cambio</string>
+
+    <string-array name="listaTipoMonedas">
+        <item>Euro</item>
+        <item>Dolar</item>
+    </string-array>
+
+
+
+
+</resources>
